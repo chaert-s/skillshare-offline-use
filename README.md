@@ -5,6 +5,10 @@ For educational/and or legitimate purposes only!
 
 **The videos will be downloaded into the same directory you are running the script from and will be sorted into folders for each course**
 
+### Possible Updates:
+- Bulk downloading
+- Selective downloading
+
 ## Step 1: Setting up and installing requirements
 - Open cmd in Windows as administrator (search for cmd, then right-click and hit "run as administrator").
 - Navigate to your folder with the ```requirements.txt``` in it by typing ```cd /pathtofolder/skillshare-offline-use```
