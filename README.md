@@ -1,5 +1,5 @@
 # Skillshare course downloader for offline viewing (for VFXmed community)
-This is used to download skillshare courses for offline viewing if you want to watch courses underway without wasting mobile data.
+This tool is used to download skillshare courses for offline viewing if you want to watch courses underway without wasting mobile data.
 Premium Account(or trial account) needed.
 For educational/and or legitimate purposes only!
 
