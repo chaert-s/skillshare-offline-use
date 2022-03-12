@@ -23,3 +23,5 @@ Run ```python downloader.py``` in cmd, enter the URL of your course when prompte
 
 
 **NOTE: It is _highly_ recommended to run this using PyCharm or other IDE applications, as it runs more reliably than in cmd.**
+
+Credits for original skillshare python module: @kalqvist
