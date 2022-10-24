@@ -1,1 +1,1 @@
-PHPSESSID=
+PHPSESSID="your token here"
